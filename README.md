@@ -187,6 +187,7 @@ If you have any questions, suggestions, or need further assistance with the repo
 
 
 ## Gif
+![review_gif](https://github.com/MauritsGraaf/Maurits-Thesis-FC/assets/147798957/5659563c-dbdf-4e3e-9938-7139b035b52f)
 
 
 
