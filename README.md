@@ -3,8 +3,8 @@
 
 This thesis addresses the challenge of identifying fake online reviews in the rapidly growing e-commerce sector. By leveraging unsupervised machine learning models, it aims to enhance the reliability of consumer feedback systems. The study evaluates various models to understand their effectiveness in detecting fraudulent reviews. The ultimate goal is to promote a more transparent and trustworthy e-commerce marketplace. This research was conducted for the Rotterdam School of Management and Feedback Company, a prominent experience management agency in the Netherlands.
 
-![images](https://github.com/MauritsGraaf/Maurits-Thesis-FC/assets/147798957/8c25c273-3497-4ea9-bf96-a15300ca3842)
-![images](https://github.com/MauritsGraaf/Maurits-Thesis-FC/assets/147798957/1291a0e3-6576-444c-8f6c-24344a330e6a)
+![logo](https://github.com/MauritsGraaf/Maurits-Thesis-FC/assets/147798957/8c25c273-3497-4ea9-bf96-a15300ca3842)
+![logo](https://github.com/MauritsGraaf/Maurits-Thesis-FC/assets/147798957/1291a0e3-6576-444c-8f6c-24344a330e6a)
 
 ## Table of contents
 
