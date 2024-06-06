@@ -8,3 +8,5 @@ fraud_eagle==1.0.0
 matplotlib==3.4.2
 UGFraud==1.0.0
 matplotlib-venn==0.11.6
+gensim
+nltk
